@@ -1,8 +1,9 @@
 <?php
-/* ejemplo 1 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*/
+/* ejemplo 1 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*/
 
 for ($i = 1; $i <= 10; $i++) {
     echo $i;
     echo 'hola';
     echo 'adios';
+    echo 'adios2';
 }
